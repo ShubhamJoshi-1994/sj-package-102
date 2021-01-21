@@ -1,0 +1,19 @@
+{
+  "name": "@shubhamjoshi-1994/sj-package-102",
+  "version": "1.0.0",
+  "description": "learn to publish a github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamJoshi-1994/sj-package-102.git"
+  },
+  "author": "shubham joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamJoshi-1994/sj-package-102/issues"
+  },
+  "homepage": "https://github.com/ShubhamJoshi-1994/sj-package-102#readme"
+}
